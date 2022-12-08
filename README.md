@@ -1,0 +1,5 @@
+- 👋 Oieeeeeee, me chamo Geisa
+- 👀 Meu maior interesse é impactar positivamente a vida das pessoas através da tecnologia
+- 🌱 atualmente estou aprendendo Angular
+- 💞️ Atualmente estou criando um site para o projeto de mulheres da minha cidade que visa ajudar mulheres que estão passando por processos emocionais difíceis entre eles a depressão
+- 📫 Você pode me encontrar no linkedin https://www.linkedin.com/in/geisabittencourt/
