@@ -1,5 +1,4 @@
 - 👋 Oieeeeeee, me chamo Geisa
 - 👀 Meu maior interesse é impactar positivamente a vida das pessoas através da tecnologia
-- 🌱 Neste momento estou etudando Angular
-- 💞️ Paralelamente aos estudos estou criando um site para o projeto de mulheres da minha cidade que visa ajudar mulheres que estão passando por processos emocionais difíceis entre eles a depressão, repositorio do site https://github.com/geisabitt/LandingPageAnas
+- 🌱 Desenvolvolvedora Front-End com foco em ANGULAR mas com conhecimentos em REACT
 - 📫 Você pode me encontrar no linkedin https://www.linkedin.com/in/geisabittencourt/
