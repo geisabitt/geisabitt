@@ -1,4 +1,4 @@
 - 👋 Oieeeeeee, me chamo Geisa
 - 👀 Meu maior interesse é impactar positivamente a vida das pessoas através da tecnologia
-- 🌱 Desenvolvolvedora Front-End com foco em ANGULAR mas com conhecimentos em REACT
+- 🌱 Desenvolvolvedora Front-End
 - 📫 Você pode me encontrar no linkedin https://www.linkedin.com/in/geisabittencourt/
